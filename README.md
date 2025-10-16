@@ -16,7 +16,7 @@ This project is a *Machine Learning model* designed to predict whether a loan ap
 - Python
 - Pandas & NumPy
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -29,4 +29,12 @@ This project is a *Machine Learning model* designed to predict whether a loan ap
   - Credit History
   - Property Area
 - The model was trained using supervised learning techniques.
+
+  ---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Zainabadell/TEXT_CLASSIFICATION.git
+
 
